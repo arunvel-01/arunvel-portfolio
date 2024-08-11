@@ -8,7 +8,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-10%20Aug%202024-yellow.svg)]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square)](https://github.com/arunvel-01/arunvel-01.github.io/blob/master/LICENSE)
 
-<img width="100%" alt="Portfolio Screenshot" src="src/portfolio preview.png">
+<img width="100%" alt="Portfolio Screenshot" src="src/png/portfolio preview.png">
 
 :star: **Star me on GitHub — it helps!**
 
