@@ -25,7 +25,6 @@
 - Clone the repository and customize the content of the **`index.html`** file as per your needs.
 - ⚠️ Replace my avatar with yours in the navbar ⚠️
 - Add or remove images from the `src/` directory according to your requirements.
-- Push the updated code to the `main` branch of this repository.
 - ⚠️ **NOTE:** Remember to update `analyticsId` & `googleSearchConsoleId` in the `<head>` tag with your own Google Analytics & Search Console IDs if you wish to track your site's performance. ⚠️
 
 ## License 📄
