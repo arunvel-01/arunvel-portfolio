@@ -8,7 +8,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-10%20Aug%202024-yellow.svg)]
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square)](https://github.com/arunvel-01/arunvel-01.github.io/blob/master/LICENSE)
 
-<img width="100%" alt="Portfolio Screenshot" src="src/png/portfolio preview.png">
+<img width="100%" alt="Portfolio Screenshot" src="assets/webp/portfolio preview.webp">
 
 :star: **Star me on GitHub — it helps!**
 
@@ -25,7 +25,6 @@
 - Clone the repository and customize the content of the **`index.html`** file as per your needs.
 - ⚠️ Replace my avatar with yours in the navbar ⚠️
 - Add or remove images from the `src/` directory according to your requirements.
-- Push the updated code to the `main` branch of this repository.
 - ⚠️ **NOTE:** Remember to update `analyticsId` & `googleSearchConsoleId` in the `<head>` tag with your own Google Analytics & Search Console IDs if you wish to track your site's performance. ⚠️
 
 ## License 📄
